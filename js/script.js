@@ -10,7 +10,7 @@ $(document).ready(function(){
   });
 
   //stop propagation
-  // $('.course').on('click', function(){
+  $('.course').on('click', function(){
   //   $(this).find('.detail').slideToggle();
   // });
 
@@ -20,3 +20,5 @@ $(document).ready(function(){
 
   // });
 });
+
+  //commm
